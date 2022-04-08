@@ -15,7 +15,10 @@
 
 *If you would like to contribute/help, please star this repository or make a pull request with useful changes!*
 
-**Github of creator https://github.com/codeuk/TrollWare**
+# Credits
+
+This project was originally made by https://github.com/codeuk/TrollWare, this entire readme.md is made by him too.
+Credit goes to him for all the original modules and readme.md
 
 # Usage
 - Program Switches (Modify the Program!)
