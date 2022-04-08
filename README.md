@@ -15,7 +15,7 @@
 
 *If you would like to contribute/help, please star this repository or make a pull request with useful changes!*
 
-**DISCORD: doop#8567**
+**Github of creator https://github.com/codeuk/TrollWare**
 
 # Usage
 - Program Switches (Modify the Program!)
