@@ -74,7 +74,7 @@ Just to give a few commands, here's some:
 **Again, there's dozens more which would just make this README more of an ebook rather than a small overview.**
 
 # Images
-
+#there is no part on the right
 - **Account & System Embed + Files**
   
   ![image](https://user-images.githubusercontent.com/75194878/150004424-2e8bce80-c345-48a5-a812-4402398f2eff.png)
