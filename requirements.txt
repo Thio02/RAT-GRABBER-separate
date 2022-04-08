@@ -1,0 +1,7 @@
+pypiwin32
+opencv-python
+py-cpuinfo
+psutil
+discord
+requests
+pillow
