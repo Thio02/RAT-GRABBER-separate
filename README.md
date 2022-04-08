@@ -1,15 +1,3 @@
-
-**PINNED NOTE: - This is a new rewrite of my previous TrollWare, as it was messy, overcomplicated & had many errors. So I'm now working on this version and constantly improving it!**
-
-<div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/codeuk/TrollWare.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/contributors/codeuk/TrollWare.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/codeuk/TrollWare.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/codeuk/TrollWare.svg?style=for-the-badge"/>
-</p>
-</div>
-
 # TrollWare 🤡 
 **TrollWare is the most advanced Discord Malware, with a built-in RAT which can be controlled through a Discord Bot**
 
@@ -19,6 +7,21 @@
 
 This project was originally made by https://github.com/codeuk/TrollWare, this entire readme.md is made by him too.
 Credit goes to him for all the original modules and readme.md
+
+## **Setup Guide:**
+You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
+Once the bot is created copy the token of your bot and paste it at line 20.
+
+Install requirements :
+```
+pip3 install -r requirements.txt
+```
+Then if the steps above were successful, you can launch the python file by executing ```python DiscordRAT```. It will create a new channel and post a message on the server with a generated session number.\
+Now your bot should be available to use ! 
+
+**Requirements:**\
+Python3, Windows(x64)
+
 
 # Usage
 - Program Switches (Modify the Program!)
