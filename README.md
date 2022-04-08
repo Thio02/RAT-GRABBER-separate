@@ -77,15 +77,7 @@ Just to give a few commands, here's some:
 
 - **Account & System Embed + Files**
   
-  ![image](https://user-images.githubusercontent.com/75194878/150004424-2e8bce80-c345-48a5-a812-4402398f2eff.png)
-
-- **New login from Injected Code**
-
-  ![image](https://user-images.githubusercontent.com/75194878/150004773-a917e5fe-be86-4188-b7f0-27473f14ac7e.png)
-
-- **TrollWare RAT Menu**
-
-  ![image](https://user-images.githubusercontent.com/75194878/150005000-892998bc-070e-4f3e-b53c-01e857bbbe4e.png)
+  ![image](file:///C:/Users/Thio/Pictures/Github.png)
 
 # Final Notes 📝
 **DON'T USE FOR MALICIOUS PURPOSES**
