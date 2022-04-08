@@ -77,7 +77,7 @@ Just to give a few commands, here's some:
 
 - **Account & System Embed + Files**
   
-  ![image](file:///C:/Users/Thio/Pictures/Github.png)
+  ![image](https://user-images.githubusercontent.com/75194878/150004424-2e8bce80-c345-48a5-a812-4402398f2eff.png)
 
 # Final Notes 📝
 **DON'T USE FOR MALICIOUS PURPOSES**
